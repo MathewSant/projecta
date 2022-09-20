@@ -1,0 +1,18 @@
+div {
+  color: red;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+body {
+  background-image: url("https://www.pontoxtecidos.com.br/static/567/sku/155904889667441.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: 0;
+}
+a {
+  color: black;
+}
